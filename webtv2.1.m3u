@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="tf1.png,TF1
+[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tf1-hls-live.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8?e=1617867500&st=6lUSN6D1E4VkQGeOQybLmQ
+
+#EXTINF:-1 tvg-logo="tmc.png",TMC
+[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tmc-hls-live.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8?e=1617867594&st=_EtOuyQnd8tFEdVE26mdbw
+
+#EXTINF:-1 tvg-logo="tfx.png",TFX
+[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tfx-hls-live.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8?e=1617867673&st=dTLRkztgoOjrx55NR-y4kg
+
+#EXTINF:-1 tvg-logo="tf1seriesfilms.png",TF1 Serie et films
+[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tsf-hls-live.tf1.fr/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8?e=1617867799&st=eZj_aUvKdyfcIi2ou3iufQ
+
+#EXTINF:-1 tvg-logo="lci.png",LCI
+[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://lci-hls-live.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8?e=1617867835&st=gY1b0OXSKYRrRhWnDbvK9A
+
+#EXTINF:-1 tvg-logo="france2.png",France 2
+[REGEX]{"url": "([^"]+)"}[URL]https://simulcast.ftven.fr/ZXhwPTE2MTc4NzUwNzN+YWNsPSUyZip+aG1hYz0zNzdjNmMwNmNmOGI2MWI0ZmRjMGY4MzhiMzZjZjlmOTcwNDM0NDcwZGI3YTcyMWM3Mjg1ZjkwYTVlMmZiZjUy/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1617854073~acl=%2f*~hmac=3c643a549879ec8cea14cfb4591e870c15b786027b2b193136af6c6f8488f2c5
+
+#EXTINF:-1 tvg-logo="france3.png",France 3
+[REGEX]{"url": "([^"]+)"}[URL]https://simulcast.ftven.fr/ZXhwPTE2MTc4NzUxMTh+YWNsPSUyZip+aG1hYz1mZjczMjJiNWZkNTYzMjkwMzQ5NjI3N2IzNmM1ZTA2ODQ1ZjMzMzZlYTU2ODQ3N2M4Y2VjZjE3OTgxOGYzZGRk/simulcast/France_3/hls_fr3/index.m3u8?hdnea=exp=1617854118~acl=%2f*~hmac=f20965e83018d7da4b6ad5dfd5d91dc518f2c596fd6c293edbff9fd8040005b2
+
+#EXTINF:-1 tvg-logo="france4.png" ,France 4
+[REGEX]{"url": "([^"]+)"}[URL]https://simulcast.ftven.fr/ZXhwPTE2MTc4NzUxNzl+YWNsPSUyZip+aG1hYz1mZDZhOTAxNmQ2MDE0NzI2NDgxOThhZjZmNTBmYTUyZTEwNGE5OTkyZThiOTczZGY1MTY5ODFiYTg0ZDNmOTk5/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1617854179~acl=%2f*~hmac=35da4d25781926c8f4d908395a33cf8531d2547530ac12c73540fd8b6baf2f95
+
+#EXTINF:-1 tvg-logo="france5.png" ,France 5
+[REGEX]{"url": "([^"]+)"}[URL]https://simulcast.ftven.fr/ZXhwPTE2MTc4NzUyMzV+YWNsPSUyZip+aG1hYz00YTYwM2M4ZThjZDE2MjE1YWZiMmQ2OTllZjYwYjFjODA5N2U3ZjliMDdmMDQ0NjAzMjMxNzhhZDhiZWQ4Njg0/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1617854235~acl=%2f*~hmac=0fe6415a0d20d6b3ffc930bdffe4d0bc8736960b94fc45cd9103f1374c7e26ee
+
+#EXTINF:-1 tvg-logo="arte.png" ,Arte
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+
+#EXTINF:-1 tvg-logo="gulli.png" ,Gulli
+[REGEX]url = "(.+?)"[URL]http://replay.gulli.fr/jwplayer/embedstreamtv
+
+#EXTINF:-1 tvg-logo="nrj12.png" ,NRJ 12
+[DECODENRJ]https://www.nrj-play.fr/nrj12/direct
+
+#EXTINF:-1 tvg-logo="cherie25.png" ,Cherie 25
+[DECODENRJ]https://www.nrj-play.fr/cherie25/direct
+
+#EXTINF:-1 tvg-logo="cstar.png" ,CStar
+https://www.dailymotion.com/player/metadata/video/x5gv5v0
+
+#EXTINF:-1 tvg-logo="c8.png" ,C8
+https://www.dailymotion.com/player/metadata/video/x5gv5rr
+
+#EXTINF:-1 tvg-logo="cnews.png",CNEWS
+https://www.dailymotion.com/player/metadata/video/x3b68jn
+
+#EXTINF:-1 tvg-logo="canalplus.png" ,Canal + (en clair)
+https://www.dailymotion.com/player/metadata/video/x5gv6be
+
+#EXTINF:-1 tvg-logo="lcp.png" ,LCP Assemblee nationale
+https://www.dailymotion.com/player/metadata/video/xji3qy
+
+#EXTINF:-1 tvg-logo="LCP100.png" ,LCP 100
+https://www.dailymotion.com/player/metadata/video/xgepjr
+
+#EXTINF:-1 tvg-logo="bfm.png" ,BFM TV
+[BRIGHTCOVEKEY]https://www.bfmtv.com/en-direct/
+
+#EXTINF:-1 tvg-logo="bfmbus.png" ,BFM Buisness
+[BRIGHTCOVEKEY]https://www.bfmtv.com/economie/en-direct/
+
+#EXTINF:-1 tvg-logo="rmcstory.png" ,RMC Story
+https://www.dailymotion.com/player/metadata/video/x13p3qi
+
+#EXTINF:-1 tvg-logo="rmcdecouverte.png" ,RMC Decouverte
+[BRIGHTCOVEKEY]https://rmcdecouverte.bfmtv.com/mediaplayer-direct/
+
+#EXTINF:-1 tvg-logo="equipe21.png" ,L'equipe 21
+https://www.dailymotion.com/player/metadata/video/x2lefik
