@@ -1,3 +1,5 @@
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/videosd-960x540/sdindex.m3u8
 
 https://rsdt-waw1201-5.tvp.pl/token/video/live/14812858/20210414/3569498169/e04442c9-4529-49e8-b2dd-aaa7fef2560f/stream_1.m3u8
+
+fr 4 https://simulcast.ftven.fr/ZXhwPTE2MTgzNzMzNDF+YWNsPSUyZip+aG1hYz1iYjY2ODEwNzEzOWY5YzE5OGE5MDZlNDBiMWE0YjcwNzAwODVkNmRiYzA1MmFmNzhiZjhlNzlkYWIzYjRlMTA4/simulcast/France_4/hls_fr4/France_4-mp4a_98400_fra=20000.m3u8
