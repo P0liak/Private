@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="tf1.png,TF1
-[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-logo="tmc.png",TMC
 [REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
