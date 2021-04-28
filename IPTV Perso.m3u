@@ -76,3 +76,6 @@ https://rmcdecouverte.bfmtv.com/mediaplayer-direct/
 
 #EXTINF:-1 tvg-logo="equipe21.png" ,L'equipe 21
 https://www.dailymotion.com/player/metadata/video/x2lefik
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
