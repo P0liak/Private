@@ -9,10 +9,10 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-logo="tf1seriesfilms.png",TF1 Serie et films
-[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://tsf-hls-live.tf1.fr/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8?e=1617867799&st=eZj_aUvKdyfcIi2ou3iufQ
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-logo="lci.png",LCI
-[REGEX]"delivery".+?"url":"([^"]+)"[URL]https://lci-hls-live.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8?e=1617867835&st=gY1b0OXSKYRrRhWnDbvK9A
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live2328.m3u8
 
 #EXTINF:-1 tvg-logo="france2.png",France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
@@ -36,7 +36,7 @@ http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 
 #EXTINF:-1 tvg-logo="gulli.png" ,Gulli
-[REGEX]url = "(.+?)"[URL]https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 #EXTINF:-1 tvg-logo="nrj12.png" ,NRJ 12
 https://www.nrj-play.fr/nrj12/direct
