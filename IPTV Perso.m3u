@@ -81,7 +81,7 @@ https://www.dailymotion.com/player/metadata/video/x13p3qi
 https://rmcdecouverte.bfmtv.com/mediaplayer-direct/
 
 #EXTINF:-1 tvg-logo="rmcdecouverte.png" ,RMC Decouverte Test
-https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_ESYTLS@300868/index_1100_av-b.m3u8?sd=10&rebase=on&id=AgDUwjg5F0P0NxZxkGDY7gaZGhiE10hjxhvz5hC7UOmKX8aQrBIYwIU2HaLDQLDnLO6f%2fa14MtRI4w%3d%3d&hdntl=exp=1620165270~acl=%2fi%2f*~data=hdntl~hmac=c0f7105270e8be80e43d72024beb85880933adba359c11abc043aa8590e113cd
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="equipe21.png" ,L'equipe 21
 https://www.dailymotion.com/player/metadata/video/x2lefik
