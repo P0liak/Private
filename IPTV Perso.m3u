@@ -14,6 +14,12 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="lci.png",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live2328.m3u8
 
+#EXTINF:-1 tvg-logo="lci.png",Boing
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
+
+#EXTINF:-1 tvg-logo="lci.png",Boomerang
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+
 #EXTINF:-1 tvg-logo="france2.png",France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 
