@@ -1,3 +1,7 @@
+http://panel.globesrv.com:80/c
+
+00:1a:79:4b:fd:a5
+
 #EXTM3U
 #EXTINF:-1,FR: TF1 HD FHD
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61030
@@ -532,4 +536,4 @@ http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61439
 #EXTINF:-1,FR: TVM3
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61440
 #EXTINF:-1,FR: D5TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61445
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/61445
